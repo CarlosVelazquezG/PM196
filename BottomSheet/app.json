@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my_appExtra",
-    "slug": "my_appExtra",
+    "name": "BottomSheet",
+    "slug": "BottomSheet",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
